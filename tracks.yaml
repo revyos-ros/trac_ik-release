@@ -1,3 +1,4 @@
+release_repo_url: git@github.com:revyos-ros/trac_ik-release
 tracks:
   jazzy:
     actions:
