@@ -1,3 +1,29 @@
+## trac_ik (jazzy) - 2.0.1-2
+
+The packages in the `trac_ik` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy trac_ik --override-release-repository-push-url git@github.com:revyos-ros/trac_ik-release` on `Mon, 24 Jun 2024 12:47:55 -0000`
+
+These packages were released:
+- `trac_ik`
+- `trac_ik_kinematics_plugin`
+- `trac_ik_lib`
+
+Version of package(s) in repository `trac_ik`:
+
+- upstream repository: https://bitbucket.org/traclabs/trac_ik
+- release repository: https://github.com/revyos-ros/trac_ik-release.git
+- rosdistro version: `2.0.1-1`
+- old version: `2.0.1-1`
+- new version: `2.0.1-2`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## trac_ik (jazzy) - 2.0.1-1
 
 The packages in the `trac_ik` repository were released into the `jazzy` distro by running `/usr/bin/bloom-release trac_ik --rosdistro jazzy` on `Mon, 22 Apr 2024 11:28:06 -0000`
